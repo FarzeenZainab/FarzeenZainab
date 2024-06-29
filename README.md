@@ -1,34 +1,43 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Farzeen Zainab
-======================================================================================================================================
+## Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Farzeen Zainab
 
-React.js developer
-------------------
+
+### Always learning, ever curious 🚀 | Crafting intuitive user experiences with React.js 🖥️⚛️
+
 
 Self-taught React.js developer with a passion for solving problems and learning new technologies.
 
 * 🌍  I'm based in Karachi, Pakistan
 * ✉️  You can contact me at [s.farzeenzainab@gmail.com](mailto:s.farzeenzainab@gmail.com)
-* 🚀  I'm currently working on [GeoFitTracker](http://geo-fit-tracker.netlify.app/)
+* 🚀  I'm currently working on [Play Plex](https://play-plex.vercel.app/) & [GeoFitTracker](http://geo-fit-tracker.netlify.app/)
 * 🧠  I'm learning redux, redux toolkit & javascript ES6 modules
 * 🤝  I'm open to collaborating on open-source projects
 * ⚡  I like quiet and peace ❤️
 
 ### Skills
 
-
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a><a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" /></a><a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nuxtjs-colored.svg" width="36" height="36" alt="Nuxtjs" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a><a href="https://babeljs.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/babel-colored.svg" width="36" height="36" alt="Babel" /></a><a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" width="36" height="36" alt="Webpack" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a><a href="https://www.adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a><a href="https://wordpress.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" width="36" height="36" alt="Wordpress" /></a>
-</p>
+[![JavaScript](https://img.shields.io/badge/-JavaScript-beige??style=social&logo=javascript&logoColor=553344)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Git](https://img.shields.io/badge/-Git-beige??style=social&logo=git&&logoColor=553344)](https://git-scm.com/)
+[![VS Code](https://img.shields.io/badge/-VS%20Code-beige??style=social&&logo=visual-studio-code&logoColor=553344)](https://code.visualstudio.com/)
+![React](https://img.shields.io/badge/-React-beige??style=social&logo=react&&logoColor=553344)
+[![Next.js](https://img.shields.io/badge/-Next.js-beige??style=social&logo=next.js&logoColor=553344)](https://nextjs.org/docs)
+[![Vue](https://img.shields.io/badge/-Vue-beige??style=social&logo=vue.js&logoColor=553344)](https://vuejs.org/)
+[![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-beige??style=social&logo=nuxt.js&logoColor=553344)](https://nuxtjs.org/)
+[![HTML5](https://img.shields.io/badge/-HTML5-beige??style=social&logo=html5&logoColor=553344)](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
+[![CSS3](https://img.shields.io/badge/-CSS3-beige??style=social&logo=css3&logoColor=553344)](https://www.w3.org/TR/CSS/#css)
+[![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-beige??style=social&logo=tailwind-css&logoColor=553344)](https://tailwindcss.com/)
+[![Bootstrap](https://img.shields.io/badge/-Bootstrap-beige??style=social&logo=bootstrap&logoColor=553344)](https://getbootstrap.com/)
+[![Redux](https://img.shields.io/badge/-Redux-beige??style=social&logo=redux&logoColor=553344)](https://redux.js.org/)
+[![Babel](https://img.shields.io/badge/-Babel-beige??style=social&logo=babel&logoColor=553344)](https://babeljs.io/)
+[![Webpack](https://img.shields.io/badge/-Webpack-beige??style=social&logo=webpack&logoColor=553344)](https://webpack.js.org/)
+[![MySQL](https://img.shields.io/badge/-MySQL-beige??style=social&logo=mysql&logoColor=553344)](https://www.mysql.com/)
+[![Figma](https://img.shields.io/badge/-Figma-beige??style=social&logo=figma&logoColor=553344)](https://www.figma.com/)
+[![Photoshop](https://img.shields.io/badge/-Photoshop-beige??style=social&logo=adobe-photoshop&logoColor=553344)](https://www.adobe.com/uk/products/photoshop.html)
+[![Illustrator](https://img.shields.io/badge/-Illustrator-beige??style=social&logo=adobe-illustrator&logoColor=553344)](https://www.adobe.com/uk/products/illustrator.html)
+[![WordPress](https://img.shields.io/badge/-WordPress-beige??style=social&logo=wordpress&logoColor=553344)](https://wordpress.com)
 
 
 ### Socials
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-beige??style=social&logo=linkedin&logoColor=553344)](https://www.linkedin.com/in/farzeen-zainab/)
 
-<p align="left"> <a href="https://www.github.com/FarzeenZainab" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://farzeenZainab.hashnode.dev" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/farzeen-zainab/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/FarzeenZainab"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=FarzeenZainab&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/FarzeenZainab" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarzeenZainab&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
