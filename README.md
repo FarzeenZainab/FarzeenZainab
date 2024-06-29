@@ -15,7 +15,7 @@ Self-taught React.js developer with a passion for solving problems and learning 
 
 ### Skills
 
-![React](https://img.shields.io/badge/-React-beige??style=social&logo=react&&logoColor=553344)
+[![React](https://img.shields.io/badge/-React-beige??style=social&logo=react&&logoColor=553344)](https://react.dev/)
 [![Redux](https://img.shields.io/badge/-Redux-beige??style=social&logo=redux&logoColor=553344)](https://redux.js.org/)
 [![Next.js](https://img.shields.io/badge/-Next.js-beige??style=social&logo=next.js&logoColor=553344)](https://nextjs.org/docs)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-beige??style=social&logo=javascript&logoColor=553344)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
