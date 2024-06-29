@@ -9,9 +9,9 @@ Self-taught React.js developer with a passion for solving problems and learning 
 * 🌍  I'm based in Karachi, Pakistan
 * ✉️  You can contact me at [s.farzeenzainab@gmail.com](mailto:s.farzeenzainab@gmail.com)
 * 🚀  I'm currently working on [GeoFitTracker](http://geo-fit-tracker.netlify.app/)
-* 🧠  I'm learning redux, redux toolkit & javaccript ES6 modules
+* 🧠  I'm learning redux, redux toolkit & javascript ES6 modules
 * 🤝  I'm open to collaborating on open-source projects
-* ⚡  I like quite and peace ❤️
+* ⚡  I like quiet and peace ❤️
 
 ### Skills
 
